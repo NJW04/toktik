@@ -1,1 +1,1 @@
-# toktik
+The goal of this assignment is to produce a simple proof-of-concept replica of some functionality of a social media system like Tiktok, using Binary Search Trees as the main underlying data structure.  We assume for this assignment that data is stored in memory while the application performs multiple functions on-demand until the user exits.
